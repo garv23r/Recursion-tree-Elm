@@ -17,6 +17,10 @@ This project implements a responsive recursion tree using the Elm programming la
 
 - **Programming Language:** Elm
 
+## Platform
+
+This project was developed on [Stabl.rocks](https://stabl.rocks), a platform for deploying and managing Elm applications.
+
 ## Check Out the Project
 
 To explore the project, [click here](https://stabl.rocks/ShowModulePublish?modulePublishId=68bfcf9f-b085-49c4-88de-7580ca384d2b).
